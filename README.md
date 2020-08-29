@@ -1,11 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is to test the installation of the spree solution of E-commerce, to test how this solution is built and how to make self configeration on it
 
 Things you may want to cover:
 
 * Ruby version
+Ruby6.0.3.2
 
 * System dependencies
 
